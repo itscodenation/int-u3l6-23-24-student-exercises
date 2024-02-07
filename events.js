@@ -50,8 +50,8 @@ const doubleClickCard = document.querySelector('[data-secret="double-click"]');
 // }
 
 
-const keypressCard = document.querySelector('[data-secret="keypress"]');
-// 5. Add an event listener to shake the card on any keypress.
+
+// 5. Add an event listener to the DOCUMENT shake the keypress card on any keypress.
 //  - The selector is document
 //  - The event type is keydown
 // (uncomment the code below and put it inside your event listener!)
